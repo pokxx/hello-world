@@ -1,2 +1,3 @@
 # hello-world
-Practice repository
+Practice repository.
+This is a practice, not useful at all.
